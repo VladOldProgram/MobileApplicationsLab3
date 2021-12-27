@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CarImages/1.png</file>
+        <file>CarImages/2.png</file>
+        <file>CarImages/3.png</file>
+        <file>CarImages/4.png</file>
+        <file>CarImages/5.png</file>
+        <file>CarImages/6.png</file>
+        <file>ObstacleImages/1.png</file>
+        <file>ObstacleImages/2.png</file>
+        <file>ObstacleImages/3.png</file>
+        <file>ObstacleImages/4.png</file>
+        <file>TreeImages/1.png</file>
+        <file>TreeImages/2.png</file>
+        <file>TreeImages/3.png</file>
+    </qresource>
+</RCC>
